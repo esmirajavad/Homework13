@@ -1,6 +1,17 @@
-
+/*:
+ ## CIS137 iOS/SWIFT Programming
+ 
+ ## Homework 13
+ 
+ Students: Esmira Babayeva,
+ 
+ Instructor: Hellen Pacheco
+ 
+ Date: 06 November, 2025
+  
+ */
 //  MemoryGame.swift (Model)
-//  Homework 13
+
 
 
 import Foundation

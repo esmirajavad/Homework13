@@ -1,6 +1,18 @@
-//  Homework 13
+/*:
+ ## CIS137 iOS/SWIFT Programming
+ 
+ ## Homework 13
+ 
+ Students: Esmira Babayeva,
+ 
+ Instructor: Hellen Pacheco
+ 
+ Date: 06 November, 2025
+ 
+ */
+
 //  FlowerMemoryGame.swift (ViewModel)
-//
+
 
 import SwiftUI
 

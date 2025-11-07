@@ -1,9 +1,17 @@
-//
+/*:
+ ## CIS137 iOS/SWIFT Programming
+ 
+ ## Homework 13
+ 
+ Students: Esmira Babayeva,
+ 
+ Instructor: Hellen Pacheco
+ 
+ Date: 06 November, 2025
+ */
 //  Homework13App.swift
-//  Homework13
-//
-//  Created by Kamal Aliyev on 11/6/25.
-//
+
+
 
 import SwiftUI
 
