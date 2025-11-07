@@ -27,18 +27,28 @@ _____________________
 Progress Bar Logic
 
 private var progressFraction: Double {
+
     let total = max(1, viewModel.pairs)
+    
     return Double(viewModel.matchedPairs) / Double(total)
+    
 }
 
 
 ProgressView(value: progressFraction) {
+
     Text("Progress")
+    
 } currentValueLabel: {
+
     Text("\(Int(progressFraction * 100))%")
+    
 }
+
 .progressViewStyle(.linear)
+
 .tint(.blue)
+
 .animation(.easeInOut, value: progressFraction)
 
 
