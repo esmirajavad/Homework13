@@ -11,7 +11,7 @@ import SwiftUI
 struct Homework13App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(viewModel: FlowerMemoryGame())
         }
     }
 }
